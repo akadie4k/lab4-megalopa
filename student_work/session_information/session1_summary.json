@@ -1,0 +1,14 @@
+{
+  "group_members": "Tanaphat Chuparat",
+  "section": 1,
+  "group": 14,
+  "fork_url": "https://github.com/akadie4k/lab4-megalopa.git",
+  "github_username_for_push": "akadie4k",
+  "model_pt": "student_work/models/sec01_group14_megalopa_yolo26n_best.pt",
+  "model_onnx": "student_work/models/sec01_group14_megalopa_yolo26n_best.onnx",
+  "Precision": 0.771404896279609,
+  "Recall": 0.2564102564102564,
+  "mAP@50": 0.2791357666600586,
+  "mAP@50-95": 0.1483245641804439,
+  "Training time (seconds)": 114.13322809800002
+}
